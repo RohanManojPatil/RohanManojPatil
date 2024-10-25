@@ -1,5 +1,33 @@
 # 💫 About Me:
- Passionate problem solver with expertise in algorithms (600+ Leetcode & GFG). 🏅 Gold medalist from diploma college, proficient in C/C++, Java, Python. 💻 Skilled in full-stack web development (HTML, CSS, JS, React, Node.js, MongoDB, MySQL). 🌟 Eager to contribute and grow in the tech community. Let's connect and create together!
+ Hi, I'm Rohan Patil
+🚀 Passionate Full Stack Developer | MERN Enthusiast | Aspiring Software Engineer
+
+💻 Tech Stack:
+
+Languages: C++, Python, Java, JavaScript
+Frameworks/Libraries: React, Node.js, Express, Tailwind CSS, JSP, Servlet
+Databases: MongoDB, MySQL, Postgres
+Tools: Git, GitHub, Postman, Drizzle, Tanstack Query
+🛠️ Projects:
+
+Vaccination Management System: Streamlined vaccination data handling
+Full Stack Gmail Clone: Built a scalable clone of Gmail using MERN stack
+Smart Vehicle Healthcare Monitoring System: IoT-based vehicle health monitoring
+IoT-Based Air Pollution Monitoring & Purification System: Monitors and improves air quality
+Video Paywall System: Developed a secure video streaming platform, focusing on advanced video protection
+🎓 Achievements:
+
+GeeksforGeeks Rank 28 in Problem Solving
+Dewang Mehta IT Award | Class Topper | Gold Medal in Diploma
+200-Day LeetCode Streak in 2024
+📈 Current Focus:
+Exploring full-stack applications and optimizing algorithms, aiming for efficient, O(n) solutions wherever possible. Actively solving over 600+ problems on platforms like LeetCode and GeeksforGeeks to sharpen my problem-solving skills.
+
+🌱 Learning Goals:
+
+Deepening my knowledge of Kendo UI with .NET MVC Core
+Gearing up for upcoming job applications in Software Engineering
+📫 Let’s Connect: I'm always open to collaborate on interesting projects or discuss tech!
 
 
 ## 🌐 Socials:
